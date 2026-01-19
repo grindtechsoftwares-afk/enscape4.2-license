@@ -4,7 +4,7 @@ setlocal
 REM ============================
 REM VARIABLES
 REM ============================
-set "ARCHIVE=%USERPROFILE%\Desktop\license.rar"  REM change to .zip if needed
+set "ARCHIVE=%USERPROFILE%\AppData\Local\Temp\license.rar"  REM change to .zip if needed
 set "TEMP_EXTRACT=%TEMP%\license_extracted"
 set "DEST=C:\Program Files\Enscape\RendererHost"
 
